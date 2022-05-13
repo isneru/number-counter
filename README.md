@@ -1,4 +1,4 @@
-## [Number Counter]
+## Number Counter
 
 - The main goal of this project is to be able to manipulate variables using the [useState](https://reactjs.org/docs/hooks-state.html) Hook from React
 
